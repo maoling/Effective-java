@@ -1,4 +1,4 @@
-package com.thread.Volatile;
+package com.designpatern;
 
 // http://www.importnew.com/18126.html
 public class Test {
