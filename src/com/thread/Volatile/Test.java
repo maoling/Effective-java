@@ -1,6 +1,9 @@
 package com.thread.Volatile;
 
-// http://www.importnew.com/18126.html
+/* http://www.importnew.com/18126.html
+ http://www.importnew.com/17820.html
+ http://blog.jobbole.com/98028/
+ */
 public class Test {
 	public volatile int inc = 0;
 
