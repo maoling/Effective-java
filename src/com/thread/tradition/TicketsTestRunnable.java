@@ -1,4 +1,4 @@
-package com.tradition;
+package com.thread.tradition;
 class MyRunnable implements Runnable{
     
     private int ticketsCount = 5;
