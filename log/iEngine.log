@@ -1,0 +1,1730 @@
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：99
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：98
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：97
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：96
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：95
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：94
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：93
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：92
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：91
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：90
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：89
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：88
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：87
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：86
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：85
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：84
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：83
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：82
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：81
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：80
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：79
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：78
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：77
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：76
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：75
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：74
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：73
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：72
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：71
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：70
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：69
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：68
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：67
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：66
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：65
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：64
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：63
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：62
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：61
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：60
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：59
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：58
+2016-03-01 14:54:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：57
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：56
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：55
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：54
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：53
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：52
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：51
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：50
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：49
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：48
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：47
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：46
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：45
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：44
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：43
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：42
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：41
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：40
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：39
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：38
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：37
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：36
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：35
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：34
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：33
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：32
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：31
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：30
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：29
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：28
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：27
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：26
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：25
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：24
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：23
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：22
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：21
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：20
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：19
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：18
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：17
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：16
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：15
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：14
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：13
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：12
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：11
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：10
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：9
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：8
+2016-03-01 14:54:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：7
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：6
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：5
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：4
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：3
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：2
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：1
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：0
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：-1
+2016-03-01 14:54:03 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：-2
+2016-03-01 15:40:37 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：99
+2016-03-01 15:40:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：98
+2016-03-01 15:40:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：97
+2016-03-01 15:40:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：96
+2016-03-01 15:40:37 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：95
+2016-03-01 15:40:37 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：94
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：93
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：92
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：91
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：90
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：89
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：88
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：87
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：86
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：85
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：84
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：83
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：82
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：81
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：80
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：79
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：78
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：77
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：76
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：75
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：74
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：73
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：72
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：71
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：70
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：69
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：68
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：67
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：66
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：65
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：64
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：63
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：62
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：61
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：60
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：59
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：58
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：57
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：56
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：55
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：54
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：53
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：52
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：51
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：50
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：49
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：48
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：47
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：46
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：45
+2016-03-01 15:40:38 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：44
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：43
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：42
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：41
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：40
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：39
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：38
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：37
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：36
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：35
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：34
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：33
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：32
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：31
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：30
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：29
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：28
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：27
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：26
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：25
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：24
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：23
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：22
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：21
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：20
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：19
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：18
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：17
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：16
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：15
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：14
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：13
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：12
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：11
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：10
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：9
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：8
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：7
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：6
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：5
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：4
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：3
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：2
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：1
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：0
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：-1
+2016-03-01 15:40:39 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：-2
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：99
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：98
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：97
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：96
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：95
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：94
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：93
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：92
+2016-03-01 15:51:00 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：91
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：90
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：89
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：88
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：87
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：86
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：85
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：84
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：83
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：82
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：81
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：80
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：79
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：78
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：77
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：76
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：75
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：74
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：73
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：72
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：71
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：70
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：69
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：68
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：67
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：66
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：65
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：64
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：63
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：62
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：61
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：60
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：59
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：58
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：57
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：56
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：55
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：54
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：53
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：52
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：51
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：50
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：49
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：48
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：47
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：46
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：45
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：44
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：43
+2016-03-01 15:51:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：42
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：41
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：40
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：39
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：38
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：37
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：36
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：35
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：34
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：33
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：32
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：31
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：30
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：29
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：28
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：27
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：26
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：25
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：24
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：23
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：22
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：21
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：20
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：19
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：18
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：17
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：16
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：15
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：14
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：13
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：12
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：11
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：10
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：9
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：8
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：7
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：6
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：5
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：4
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：3
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：2
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：1
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：0
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：-1
+2016-03-01 15:51:02 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：-2
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：99
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：98
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：97
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：96
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：95
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：94
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：93
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：92
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：91
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：90
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：89
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：88
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：87
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：86
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：85
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：84
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：83
+2016-03-01 15:55:08 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：82
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：81
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：80
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：79
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：78
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：77
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：76
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：75
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：74
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：73
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：72
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：71
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：70
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：69
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：68
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：67
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：66
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：65
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：64
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：63
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：62
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：61
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：60
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：59
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：58
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：57
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：56
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：55
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：54
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：53
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：52
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：51
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：50
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：49
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：48
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：47
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：46
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：45
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：44
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：43
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：42
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：41
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：40
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：39
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：38
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：37
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：36
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：35
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：34
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：33
+2016-03-01 15:55:09 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：32
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：31
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：30
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：29
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：28
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：27
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：26
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：25
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：24
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：23
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：22
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：21
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：20
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：19
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：18
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：17
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：16
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：15
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：14
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：13
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：12
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：11
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：10
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：9
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：8
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：7
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：6
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：5
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：4
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：3
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：2
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：1
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：0
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：-1
+2016-03-01 15:55:10 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：-2
+2016-03-01 16:05:15 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：99
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：98
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：97
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：96
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：95
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：94
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：93
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：92
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：91
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：90
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：89
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：88
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：87
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：86
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：85
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：84
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：83
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：82
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：81
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：80
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：79
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：78
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：77
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：76
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：75
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：74
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：73
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：72
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：71
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：70
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：69
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：68
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：67
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：66
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：65
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：64
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：63
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：62
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：61
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：60
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：59
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：58
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：57
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：56
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：55
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：54
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：53
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：52
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：51
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：50
+2016-03-01 16:05:16 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：49
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：48
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：47
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：46
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：45
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：44
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：43
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：42
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：41
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：40
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：39
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：38
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：37
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：36
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：35
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：34
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：33
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：32
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：31
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：30
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：29
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：28
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：27
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：26
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：25
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：24
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：23
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：22
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：21
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：20
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：19
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：18
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：17
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：16
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：15
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：14
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：13
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：12
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：11
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：10
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：9
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：8
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：7
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：6
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：5
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：4
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：3
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：2
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：1
+2016-03-01 16:05:17 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：0
+2016-03-01 16:05:18 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：-1
+2016-03-01 16:05:18 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：-2
+2016-03-01 16:05:20 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：99
+2016-03-01 16:05:20 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：98
+2016-03-01 16:05:20 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：97
+2016-03-01 16:05:20 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：96
+2016-03-01 16:05:20 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：95
+2016-03-01 16:05:20 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：94
+2016-03-01 16:05:20 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：93
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：92
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：91
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：90
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：89
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：88
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：87
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：86
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：85
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：84
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：83
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：82
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：81
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：80
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：79
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：78
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：77
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：76
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：75
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：74
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：73
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：72
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：71
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：70
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：69
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：68
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：67
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：66
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：65
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：64
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：63
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：62
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：61
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：60
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：59
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：58
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：57
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：56
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：55
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：54
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：53
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：52
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：51
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：50
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：49
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：48
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：47
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：46
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：45
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：44
+2016-03-01 16:05:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：43
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：42
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：41
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：40
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：39
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：38
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：37
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：36
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：35
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：34
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：33
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：32
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：31
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：30
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：29
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：28
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：27
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：26
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：25
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：24
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：23
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：22
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：21
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：20
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：19
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：18
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：17
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：16
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：15
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：14
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：13
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：12
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：11
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：10
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：9
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：8
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：7
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：6
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：5
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：4
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：3
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：2
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：1
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：0
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：-1
+2016-03-01 16:05:22 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：-2
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：99
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：98
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：97
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：96
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：95
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：94
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：93
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：92
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：91
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：90
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：89
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：88
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：87
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：86
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：85
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：84
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：83
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：82
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：81
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：80
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：79
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：78
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：77
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：76
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：75
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：74
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：73
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：72
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：71
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：70
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：69
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：68
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：67
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：66
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：65
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：64
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：63
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：62
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：61
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：60
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：59
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：58
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：57
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：56
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：55
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：54
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：53
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：52
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：51
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：50
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：49
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：48
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：47
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：46
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：45
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：44
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：43
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：42
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：41
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：40
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：39
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：38
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：37
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：36
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：35
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：34
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：33
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：32
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：31
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：30
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：29
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：28
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：27
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：26
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：25
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：24
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：23
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：22
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：21
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：20
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：19
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：18
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：17
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：16
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：15
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：14
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：13
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：12
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：11
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：10
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：9
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：8
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：7
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：6
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：5
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：4
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：3
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：2
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：1
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口3 卖了一张票，还剩下：0
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：-1
+2016-03-01 16:06:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1 卖了一张票，还剩下：-2
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：99
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：98
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：97
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：96
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：95
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：94
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：93
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：92
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：91
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：90
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：89
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：88
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：87
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：86
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：85
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：84
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：83
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：82
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：81
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：80
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：79
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：78
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：77
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：76
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：75
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：74
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：73
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：72
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：71
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：70
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：69
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：68
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：67
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：66
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：65
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：64
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：63
+2016-03-01 16:18:23 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：62
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：61
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：60
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：59
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：58
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：57
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：56
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：55
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：54
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：53
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：52
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：51
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：50
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：49
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：48
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：47
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：46
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：45
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：44
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：43
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：42
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：41
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：40
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：39
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：38
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：37
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：36
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：35
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：34
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：33
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：32
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：31
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：30
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：29
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：28
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：27
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：26
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：25
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：24
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：23
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：22
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：21
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：20
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：19
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：18
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：17
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：16
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：15
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：14
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：13
+2016-03-01 16:18:24 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：12
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：11
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：10
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：9
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：8
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：7
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：6
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：5
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：4
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：3
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：2
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：1
+2016-03-01 16:18:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：0
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：99
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：98
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：97
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：96
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：95
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：94
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：93
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：92
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：91
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：90
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：89
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：88
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：87
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：86
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：85
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：84
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：83
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：82
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：81
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：80
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：79
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：78
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：77
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：76
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：75
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：74
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：73
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：72
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：71
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：70
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：69
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：68
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：67
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：66
+2016-03-01 16:18:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：65
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：64
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：63
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：62
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：61
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：60
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：59
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：58
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：57
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：56
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：55
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：54
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：53
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：52
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：51
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：50
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：49
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：48
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：47
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：46
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：45
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：44
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：43
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：42
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：41
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：40
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：39
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：38
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：37
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：36
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：35
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：34
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：33
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：32
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：31
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：30
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：29
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：28
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：27
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：26
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：25
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：24
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：23
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：22
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：21
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：20
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：19
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：18
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：17
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：16
+2016-03-01 16:18:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：15
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：14
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：13
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：12
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：11
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：10
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：9
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：8
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：7
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：6
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：5
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：4
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：3
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：2
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：1
+2016-03-01 16:18:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2 卖了一张票，还剩下：0
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了0,还剩下：99
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了1,还剩下：98
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了2,还剩下：97
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了3,还剩下：96
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了4,还剩下：95
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了5,还剩下：94
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了6,还剩下：93
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了7,还剩下：92
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了8,还剩下：91
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了9,还剩下：90
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了10,还剩下：89
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了11,还剩下：88
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了12,还剩下：87
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了13,还剩下：86
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了14,还剩下：85
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了15,还剩下：84
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了16,还剩下：83
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了17,还剩下：82
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了18,还剩下：81
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了19,还剩下：80
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了20,还剩下：79
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了21,还剩下：78
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了22,还剩下：77
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了23,还剩下：76
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了24,还剩下：75
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了25,还剩下：74
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了26,还剩下：73
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了27,还剩下：72
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了28,还剩下：71
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了29,还剩下：70
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了30,还剩下：69
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了31,还剩下：68
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了32,还剩下：67
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了33,还剩下：66
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了34,还剩下：65
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了35,还剩下：64
+2016-03-01 16:20:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了36,还剩下：63
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了37,还剩下：62
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了38,还剩下：61
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了39,还剩下：60
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了40,还剩下：59
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了41,还剩下：58
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了42,还剩下：57
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了43,还剩下：56
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了44,还剩下：55
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了45,还剩下：54
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了46,还剩下：53
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了47,还剩下：52
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了48,还剩下：51
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了49,还剩下：50
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了50,还剩下：49
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了51,还剩下：48
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了52,还剩下：47
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了53,还剩下：46
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了54,还剩下：45
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了55,还剩下：44
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了56,还剩下：43
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了57,还剩下：42
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了58,还剩下：41
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了59,还剩下：40
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了60,还剩下：39
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了61,还剩下：38
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了62,还剩下：37
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了63,还剩下：36
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了64,还剩下：35
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了65,还剩下：34
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了66,还剩下：33
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了67,还剩下：32
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了68,还剩下：31
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了69,还剩下：30
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了70,还剩下：29
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了71,还剩下：28
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了72,还剩下：27
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了73,还剩下：26
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了74,还剩下：25
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了75,还剩下：24
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了76,还剩下：23
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了77,还剩下：22
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了78,还剩下：21
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了79,还剩下：20
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了80,还剩下：19
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了81,还剩下：18
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了82,还剩下：17
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了83,还剩下：16
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了84,还剩下：15
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了85,还剩下：14
+2016-03-01 16:20:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了86,还剩下：13
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了87,还剩下：12
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了88,还剩下：11
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了89,还剩下：10
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了90,还剩下：9
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了91,还剩下：8
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了92,还剩下：7
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了93,还剩下：6
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了94,还剩下：5
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了95,还剩下：4
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了96,还剩下：3
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了97,还剩下：2
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了98,还剩下：1
+2016-03-01 16:20:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了99,还剩下：0
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了17,还剩下：83
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了18,还剩下：82
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了19,还剩下：81
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了20,还剩下：80
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了21,还剩下：79
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了22,还剩下：78
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了23,还剩下：77
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了24,还剩下：76
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了25,还剩下：75
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了26,还剩下：74
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了27,还剩下：73
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了28,还剩下：72
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了29,还剩下：71
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了30,还剩下：70
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了31,还剩下：69
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了32,还剩下：68
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了33,还剩下：67
+2016-03-01 16:20:55 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了34,还剩下：66
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了35,还剩下：65
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了36,还剩下：64
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了37,还剩下：63
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了38,还剩下：62
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了39,还剩下：61
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了40,还剩下：60
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了41,还剩下：59
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了42,还剩下：58
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了43,还剩下：57
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了44,还剩下：56
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了45,还剩下：55
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了46,还剩下：54
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了47,还剩下：53
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了48,还剩下：52
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了49,还剩下：51
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了50,还剩下：50
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了51,还剩下：49
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了52,还剩下：48
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了53,还剩下：47
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了54,还剩下：46
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了55,还剩下：45
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了56,还剩下：44
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了57,还剩下：43
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了58,还剩下：42
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了59,还剩下：41
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了60,还剩下：40
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了61,还剩下：39
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了62,还剩下：38
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了63,还剩下：37
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了64,还剩下：36
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了65,还剩下：35
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了66,还剩下：34
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了67,还剩下：33
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了68,还剩下：32
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了69,还剩下：31
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了70,还剩下：30
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了71,还剩下：29
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了72,还剩下：28
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了73,还剩下：27
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了74,还剩下：26
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了75,还剩下：25
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了76,还剩下：24
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了77,还剩下：23
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了78,还剩下：22
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了79,还剩下：21
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了80,还剩下：20
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了81,还剩下：19
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了82,还剩下：18
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了83,还剩下：17
+2016-03-01 16:20:56 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了84,还剩下：16
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了85,还剩下：15
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了86,还剩下：14
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了87,还剩下：13
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了88,还剩下：12
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了89,还剩下：11
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了90,还剩下：10
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了91,还剩下：9
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了92,还剩下：8
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了93,还剩下：7
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了94,还剩下：6
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了95,还剩下：5
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了96,还剩下：4
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了97,还剩下：3
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了98,还剩下：2
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了99,还剩下：1
+2016-03-01 16:20:57 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了100,还剩下：0
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了17,还剩下：83
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了18,还剩下：82
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了19,还剩下：81
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了20,还剩下：80
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了21,还剩下：79
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了22,还剩下：78
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了23,还剩下：77
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了24,还剩下：76
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了25,还剩下：75
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了26,还剩下：74
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了27,还剩下：73
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了28,还剩下：72
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了29,还剩下：71
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了30,还剩下：70
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了31,还剩下：69
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了32,还剩下：68
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了33,还剩下：67
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了34,还剩下：66
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了35,还剩下：65
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了36,还剩下：64
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了37,还剩下：63
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了38,还剩下：62
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了39,还剩下：61
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了40,还剩下：60
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了41,还剩下：59
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了42,还剩下：58
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了43,还剩下：57
+2016-03-01 16:33:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了44,还剩下：56
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了45,还剩下：55
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了46,还剩下：54
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了47,还剩下：53
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了48,还剩下：52
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了49,还剩下：51
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了50,还剩下：50
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了51,还剩下：49
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了52,还剩下：48
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了53,还剩下：47
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了54,还剩下：46
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了55,还剩下：45
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了56,还剩下：44
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了57,还剩下：43
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了58,还剩下：42
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了59,还剩下：41
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了60,还剩下：40
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了61,还剩下：39
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了62,还剩下：38
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了63,还剩下：37
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了64,还剩下：36
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了65,还剩下：35
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了66,还剩下：34
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了67,还剩下：33
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了68,还剩下：32
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了69,还剩下：31
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了70,还剩下：30
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了71,还剩下：29
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了72,还剩下：28
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了73,还剩下：27
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了74,还剩下：26
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了75,还剩下：25
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了76,还剩下：24
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了77,还剩下：23
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了78,还剩下：22
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了79,还剩下：21
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了80,还剩下：20
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了81,还剩下：19
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了82,还剩下：18
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了83,还剩下：17
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了84,还剩下：16
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了85,还剩下：15
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了86,还剩下：14
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了87,还剩下：13
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了88,还剩下：12
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了89,还剩下：11
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了90,还剩下：10
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了91,还剩下：9
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了92,还剩下：8
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了93,还剩下：7
+2016-03-01 16:33:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了94,还剩下：6
+2016-03-01 16:33:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了95,还剩下：5
+2016-03-01 16:33:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了96,还剩下：4
+2016-03-01 16:33:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了97,还剩下：3
+2016-03-01 16:33:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了98,还剩下：2
+2016-03-01 16:33:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了99,还剩下：1
+2016-03-01 16:33:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了100,还剩下：0
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了17,还剩下：83
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了18,还剩下：82
+2016-03-01 18:06:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了19,还剩下：81
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了20,还剩下：80
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了21,还剩下：79
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了22,还剩下：78
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了23,还剩下：77
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了24,还剩下：76
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了25,还剩下：75
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了26,还剩下：74
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了27,还剩下：73
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了28,还剩下：72
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了29,还剩下：71
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了30,还剩下：70
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了31,还剩下：69
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了32,还剩下：68
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了33,还剩下：67
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了34,还剩下：66
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了35,还剩下：65
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了36,还剩下：64
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了37,还剩下：63
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了38,还剩下：62
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了39,还剩下：61
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了40,还剩下：60
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了41,还剩下：59
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了42,还剩下：58
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了43,还剩下：57
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了44,还剩下：56
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了45,还剩下：55
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了46,还剩下：54
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了47,还剩下：53
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了48,还剩下：52
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了49,还剩下：51
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了50,还剩下：50
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了51,还剩下：49
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了52,还剩下：48
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了53,还剩下：47
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了54,还剩下：46
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了55,还剩下：45
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了56,还剩下：44
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了57,还剩下：43
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了58,还剩下：42
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了59,还剩下：41
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了60,还剩下：40
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了61,还剩下：39
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了62,还剩下：38
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了63,还剩下：37
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了64,还剩下：36
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了65,还剩下：35
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了66,还剩下：34
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了67,还剩下：33
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了68,还剩下：32
+2016-03-01 18:06:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了69,还剩下：31
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了70,还剩下：30
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了71,还剩下：29
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了72,还剩下：28
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了73,还剩下：27
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了74,还剩下：26
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了75,还剩下：25
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了76,还剩下：24
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了77,还剩下：23
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了78,还剩下：22
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了79,还剩下：21
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了80,还剩下：20
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了81,还剩下：19
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了82,还剩下：18
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了83,还剩下：17
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了84,还剩下：16
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了85,还剩下：15
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了86,还剩下：14
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了87,还剩下：13
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了88,还剩下：12
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了89,还剩下：11
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了90,还剩下：10
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了91,还剩下：9
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了92,还剩下：8
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了93,还剩下：7
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了94,还剩下：6
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了95,还剩下：5
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了96,还剩下：4
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了97,还剩下：3
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了98,还剩下：2
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了99,还剩下：1
+2016-03-01 18:06:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了100,还剩下：0
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了17,还剩下：83
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了18,还剩下：82
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了19,还剩下：81
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了20,还剩下：80
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了21,还剩下：79
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了22,还剩下：78
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了23,还剩下：77
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了24,还剩下：76
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了25,还剩下：75
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了26,还剩下：74
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了27,还剩下：73
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了28,还剩下：72
+2016-03-01 18:07:00 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了29,还剩下：71
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了30,还剩下：70
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了31,还剩下：69
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了32,还剩下：68
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了33,还剩下：67
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了34,还剩下：66
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了35,还剩下：65
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了36,还剩下：64
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了37,还剩下：63
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了38,还剩下：62
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了39,还剩下：61
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了40,还剩下：60
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了41,还剩下：59
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了42,还剩下：58
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了43,还剩下：57
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了44,还剩下：56
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了45,还剩下：55
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了46,还剩下：54
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了47,还剩下：53
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了48,还剩下：52
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了49,还剩下：51
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了50,还剩下：50
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了51,还剩下：49
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了52,还剩下：48
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了53,还剩下：47
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了54,还剩下：46
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了55,还剩下：45
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了56,还剩下：44
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了57,还剩下：43
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了58,还剩下：42
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了59,还剩下：41
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了60,还剩下：40
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了61,还剩下：39
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了62,还剩下：38
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了63,还剩下：37
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了64,还剩下：36
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了65,还剩下：35
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了66,还剩下：34
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了67,还剩下：33
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了68,还剩下：32
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了69,还剩下：31
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了70,还剩下：30
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了71,还剩下：29
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了72,还剩下：28
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了73,还剩下：27
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了74,还剩下：26
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了75,还剩下：25
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了76,还剩下：24
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了77,还剩下：23
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了78,还剩下：22
+2016-03-01 18:07:01 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了79,还剩下：21
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了80,还剩下：20
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了81,还剩下：19
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了82,还剩下：18
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了83,还剩下：17
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了84,还剩下：16
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了85,还剩下：15
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了86,还剩下：14
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了87,还剩下：13
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了88,还剩下：12
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了89,还剩下：11
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了90,还剩下：10
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了91,还剩下：9
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了92,还剩下：8
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了93,还剩下：7
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了94,还剩下：6
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了95,还剩下：5
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了96,还剩下：4
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了97,还剩下：3
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了98,还剩下：2
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了99,还剩下：1
+2016-03-01 18:07:02 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了100,还剩下：0
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了17,还剩下：83
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了18,还剩下：82
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了19,还剩下：81
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了20,还剩下：80
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了21,还剩下：79
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了22,还剩下：78
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了23,还剩下：77
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了24,还剩下：76
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了25,还剩下：75
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了26,还剩下：74
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了27,还剩下：73
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了28,还剩下：72
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了29,还剩下：71
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了30,还剩下：70
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了31,还剩下：69
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了32,还剩下：68
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了33,还剩下：67
+2016-03-01 18:07:04 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了34,还剩下：66
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了35,还剩下：65
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了36,还剩下：64
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了37,还剩下：63
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了38,还剩下：62
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了39,还剩下：61
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了40,还剩下：60
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了41,还剩下：59
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了42,还剩下：58
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了43,还剩下：57
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了44,还剩下：56
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了45,还剩下：55
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了46,还剩下：54
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了47,还剩下：53
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了48,还剩下：52
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了49,还剩下：51
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了50,还剩下：50
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了51,还剩下：49
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了52,还剩下：48
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了53,还剩下：47
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了54,还剩下：46
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了55,还剩下：45
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了56,还剩下：44
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了57,还剩下：43
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了58,还剩下：42
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了59,还剩下：41
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了60,还剩下：40
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了61,还剩下：39
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了62,还剩下：38
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了63,还剩下：37
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了64,还剩下：36
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了65,还剩下：35
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了66,还剩下：34
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了67,还剩下：33
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了68,还剩下：32
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了69,还剩下：31
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了70,还剩下：30
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了71,还剩下：29
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了72,还剩下：28
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了73,还剩下：27
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了74,还剩下：26
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了75,还剩下：25
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了76,还剩下：24
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了77,还剩下：23
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了78,还剩下：22
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了79,还剩下：21
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了80,还剩下：20
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了81,还剩下：19
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了82,还剩下：18
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了83,还剩下：17
+2016-03-01 18:07:05 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了84,还剩下：16
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了85,还剩下：15
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了86,还剩下：14
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了87,还剩下：13
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了88,还剩下：12
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了89,还剩下：11
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了90,还剩下：10
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了91,还剩下：9
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了92,还剩下：8
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了93,还剩下：7
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了94,还剩下：6
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了95,还剩下：5
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了96,还剩下：4
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了97,还剩下：3
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了98,还剩下：2
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了99,还剩下：1
+2016-03-01 18:07:06 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了100,还剩下：0
+2016-03-01 18:07:18 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 18:07:19 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 18:07:19 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 18:07:19 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 18:07:19 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 18:07:19 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 18:07:20 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 18:07:20 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 18:07:20 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 18:07:20 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 18:07:20 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 18:07:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 18:07:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 18:07:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 18:07:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 18:07:21 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 18:07:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了17,还剩下：83
+2016-03-01 18:07:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了18,还剩下：82
+2016-03-01 18:07:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了19,还剩下：81
+2016-03-01 18:07:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了20,还剩下：80
+2016-03-01 18:07:22 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了21,还剩下：79
+2016-03-01 18:07:23 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了22,还剩下：78
+2016-03-01 18:07:23 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了23,还剩下：77
+2016-03-01 18:07:23 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了24,还剩下：76
+2016-03-01 18:07:23 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了25,还剩下：75
+2016-03-01 18:07:23 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了26,还剩下：74
+2016-03-01 18:07:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了27,还剩下：73
+2016-03-01 18:07:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了28,还剩下：72
+2016-03-01 18:07:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了29,还剩下：71
+2016-03-01 18:07:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了30,还剩下：70
+2016-03-01 18:07:24 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了31,还剩下：69
+2016-03-01 18:07:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了32,还剩下：68
+2016-03-01 18:07:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了33,还剩下：67
+2016-03-01 18:07:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了34,还剩下：66
+2016-03-01 18:07:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了35,还剩下：65
+2016-03-01 18:07:25 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了36,还剩下：64
+2016-03-01 18:07:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了37,还剩下：63
+2016-03-01 18:07:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了38,还剩下：62
+2016-03-01 18:07:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了39,还剩下：61
+2016-03-01 18:07:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了40,还剩下：60
+2016-03-01 18:07:26 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了41,还剩下：59
+2016-03-01 18:07:27 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了42,还剩下：58
+2016-03-01 18:07:27 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了43,还剩下：57
+2016-03-01 18:07:27 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了44,还剩下：56
+2016-03-01 18:07:27 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了45,还剩下：55
+2016-03-01 18:07:27 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了46,还剩下：54
+2016-03-01 18:07:28 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了47,还剩下：53
+2016-03-01 18:07:28 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了48,还剩下：52
+2016-03-01 18:07:28 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了49,还剩下：51
+2016-03-01 18:07:28 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了50,还剩下：50
+2016-03-01 18:07:28 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了51,还剩下：49
+2016-03-01 18:07:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了52,还剩下：48
+2016-03-01 18:07:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了53,还剩下：47
+2016-03-01 18:07:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了54,还剩下：46
+2016-03-01 18:07:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了55,还剩下：45
+2016-03-01 18:07:29 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了56,还剩下：44
+2016-03-01 18:07:30 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了57,还剩下：43
+2016-03-01 18:07:30 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了58,还剩下：42
+2016-03-01 18:07:30 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了59,还剩下：41
+2016-03-01 18:07:30 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了60,还剩下：40
+2016-03-01 18:07:30 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了61,还剩下：39
+2016-03-01 18:07:31 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了62,还剩下：38
+2016-03-01 18:07:31 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了63,还剩下：37
+2016-03-01 18:07:31 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了64,还剩下：36
+2016-03-01 18:07:31 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了65,还剩下：35
+2016-03-01 18:07:31 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了66,还剩下：34
+2016-03-01 18:07:32 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了67,还剩下：33
+2016-03-01 18:07:32 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了68,还剩下：32
+2016-03-01 18:07:32 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了69,还剩下：31
+2016-03-01 18:07:32 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了70,还剩下：30
+2016-03-01 18:07:32 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了71,还剩下：29
+2016-03-01 18:07:33 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了72,还剩下：28
+2016-03-01 18:07:33 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了73,还剩下：27
+2016-03-01 18:07:33 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了74,还剩下：26
+2016-03-01 18:07:33 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了75,还剩下：25
+2016-03-01 18:07:33 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了76,还剩下：24
+2016-03-01 18:07:34 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了77,还剩下：23
+2016-03-01 18:07:34 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了78,还剩下：22
+2016-03-01 18:07:34 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了79,还剩下：21
+2016-03-01 18:07:34 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了80,还剩下：20
+2016-03-01 18:07:34 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了81,还剩下：19
+2016-03-01 18:07:35 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了82,还剩下：18
+2016-03-01 18:07:35 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了83,还剩下：17
+2016-03-01 18:07:35 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了84,还剩下：16
+2016-03-01 18:07:35 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了85,还剩下：15
+2016-03-01 18:07:35 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了86,还剩下：14
+2016-03-01 18:07:36 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了87,还剩下：13
+2016-03-01 18:07:36 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了88,还剩下：12
+2016-03-01 18:07:36 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了89,还剩下：11
+2016-03-01 18:07:36 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了90,还剩下：10
+2016-03-01 18:07:36 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了91,还剩下：9
+2016-03-01 18:07:37 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了92,还剩下：8
+2016-03-01 18:07:37 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了93,还剩下：7
+2016-03-01 18:07:37 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了94,还剩下：6
+2016-03-01 18:07:37 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了95,还剩下：5
+2016-03-01 18:07:37 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了96,还剩下：4
+2016-03-01 18:07:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了97,还剩下：3
+2016-03-01 18:07:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了98,还剩下：2
+2016-03-01 18:07:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了99,还剩下：1
+2016-03-01 18:07:38 DEBUG  com.thread.tradition.MyRunnable - 窗口1卖了一张票,总共已经卖了100,还剩下：0
+2016-03-01 18:08:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 18:08:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 18:08:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 18:08:25 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 18:08:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 18:08:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 18:08:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 18:08:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 18:08:26 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 18:08:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 18:08:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 18:08:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 18:08:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 18:08:27 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 18:08:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 18:08:28 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 18:08:30 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了1,还剩下：99
+2016-03-01 18:08:30 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了2,还剩下：98
+2016-03-01 18:08:30 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了3,还剩下：97
+2016-03-01 18:08:30 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了4,还剩下：96
+2016-03-01 18:08:30 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了5,还剩下：95
+2016-03-01 18:08:31 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了6,还剩下：94
+2016-03-01 18:08:31 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了7,还剩下：93
+2016-03-01 18:08:31 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了8,还剩下：92
+2016-03-01 18:08:31 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了9,还剩下：91
+2016-03-01 18:08:32 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了10,还剩下：90
+2016-03-01 18:08:32 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了11,还剩下：89
+2016-03-01 18:08:32 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了12,还剩下：88
+2016-03-01 18:08:32 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了13,还剩下：87
+2016-03-01 18:08:32 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了14,还剩下：86
+2016-03-01 18:08:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了15,还剩下：85
+2016-03-01 18:08:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了16,还剩下：84
+2016-03-01 18:08:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了17,还剩下：83
+2016-03-01 18:08:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了18,还剩下：82
+2016-03-01 18:08:33 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了19,还剩下：81
+2016-03-01 18:08:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了20,还剩下：80
+2016-03-01 18:08:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了21,还剩下：79
+2016-03-01 18:08:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了22,还剩下：78
+2016-03-01 18:08:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了23,还剩下：77
+2016-03-01 18:08:34 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了24,还剩下：76
+2016-03-01 18:08:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了25,还剩下：75
+2016-03-01 18:08:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了26,还剩下：74
+2016-03-01 18:08:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了27,还剩下：73
+2016-03-01 18:08:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了28,还剩下：72
+2016-03-01 18:08:35 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了29,还剩下：71
+2016-03-01 18:08:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了30,还剩下：70
+2016-03-01 18:08:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了31,还剩下：69
+2016-03-01 18:08:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了32,还剩下：68
+2016-03-01 18:08:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了33,还剩下：67
+2016-03-01 18:08:36 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了34,还剩下：66
+2016-03-01 18:08:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了35,还剩下：65
+2016-03-01 18:08:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了36,还剩下：64
+2016-03-01 18:08:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了37,还剩下：63
+2016-03-01 18:08:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了38,还剩下：62
+2016-03-01 18:08:37 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了39,还剩下：61
+2016-03-01 18:08:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了40,还剩下：60
+2016-03-01 18:08:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了41,还剩下：59
+2016-03-01 18:08:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了42,还剩下：58
+2016-03-01 18:08:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了43,还剩下：57
+2016-03-01 18:08:38 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了44,还剩下：56
+2016-03-01 18:08:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了45,还剩下：55
+2016-03-01 18:08:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了46,还剩下：54
+2016-03-01 18:08:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了47,还剩下：53
+2016-03-01 18:08:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了48,还剩下：52
+2016-03-01 18:08:39 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了49,还剩下：51
+2016-03-01 18:08:40 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了50,还剩下：50
+2016-03-01 18:08:40 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了51,还剩下：49
+2016-03-01 18:08:40 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了52,还剩下：48
+2016-03-01 18:08:40 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了53,还剩下：47
+2016-03-01 18:08:40 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了54,还剩下：46
+2016-03-01 18:08:41 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了55,还剩下：45
+2016-03-01 18:08:41 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了56,还剩下：44
+2016-03-01 18:08:41 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了57,还剩下：43
+2016-03-01 18:08:41 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了58,还剩下：42
+2016-03-01 18:08:41 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了59,还剩下：41
+2016-03-01 18:08:42 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了60,还剩下：40
+2016-03-01 18:08:42 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了61,还剩下：39
+2016-03-01 18:08:42 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了62,还剩下：38
+2016-03-01 18:08:42 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了63,还剩下：37
+2016-03-01 18:08:42 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了64,还剩下：36
+2016-03-01 18:08:43 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了65,还剩下：35
+2016-03-01 18:08:43 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了66,还剩下：34
+2016-03-01 18:08:43 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了67,还剩下：33
+2016-03-01 18:08:43 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了68,还剩下：32
+2016-03-01 18:08:43 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了69,还剩下：31
+2016-03-01 18:08:44 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了70,还剩下：30
+2016-03-01 18:08:44 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了71,还剩下：29
+2016-03-01 18:08:44 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了72,还剩下：28
+2016-03-01 18:08:44 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了73,还剩下：27
+2016-03-01 18:08:44 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了74,还剩下：26
+2016-03-01 18:08:45 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了75,还剩下：25
+2016-03-01 18:08:45 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了76,还剩下：24
+2016-03-01 18:08:45 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了77,还剩下：23
+2016-03-01 18:08:45 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了78,还剩下：22
+2016-03-01 18:08:45 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了79,还剩下：21
+2016-03-01 18:08:46 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了80,还剩下：20
+2016-03-01 18:08:46 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了81,还剩下：19
+2016-03-01 18:08:46 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了82,还剩下：18
+2016-03-01 18:08:46 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了83,还剩下：17
+2016-03-01 18:08:46 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了84,还剩下：16
+2016-03-01 18:08:47 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了85,还剩下：15
+2016-03-01 18:08:47 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了86,还剩下：14
+2016-03-01 18:08:47 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了87,还剩下：13
+2016-03-01 18:08:47 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了88,还剩下：12
+2016-03-01 18:08:47 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了89,还剩下：11
+2016-03-01 18:08:48 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了90,还剩下：10
+2016-03-01 18:08:48 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了91,还剩下：9
+2016-03-01 18:08:48 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了92,还剩下：8
+2016-03-01 18:08:48 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了93,还剩下：7
+2016-03-01 18:08:48 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了94,还剩下：6
+2016-03-01 18:08:49 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了95,还剩下：5
+2016-03-01 18:08:49 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了96,还剩下：4
+2016-03-01 18:08:49 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了97,还剩下：3
+2016-03-01 18:08:49 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了98,还剩下：2
+2016-03-01 18:08:49 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了99,还剩下：1
+2016-03-01 18:08:50 DEBUG  com.thread.tradition.MyRunnable - 窗口2卖了一张票,总共已经卖了100,还剩下：0
