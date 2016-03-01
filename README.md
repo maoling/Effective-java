@@ -1,2 +1,1 @@
-# Thread-java
-Some code about the thread in java
+Some effective code about java

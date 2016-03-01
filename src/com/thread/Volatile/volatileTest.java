@@ -4,7 +4,8 @@ package com.thread.Volatile;
  http://www.importnew.com/17820.html
  http://blog.jobbole.com/98028/
  */
-public class Test {
+public class volatileTest {
+
 	public volatile int inc = 0;
 
 	public void increase() {
@@ -12,7 +13,7 @@ public class Test {
 	}
 
 	public static void main(String[] args) {
-		final Test test = new Test();
+		final volatileTest test = new volatileTest();
 		for (int i = 0; i < 10; i++) {
 			new Thread() {
 				@Override

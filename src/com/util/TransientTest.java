@@ -3,6 +3,7 @@ package com.util;
 /*
  * http://www.cnblogs.com/lanxuezaipiao/p/3369962.html
  * */
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -29,9 +30,22 @@ public class TransientTest {
 		System.out.println("username: " + user.getUsername());
 		System.err.println("password: " + user.getPasswd());
 
+		File file = new File("d:/user.txt");
+		if (!file.exists()) {
+			try {
+				file.createNewFile();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+
 		try {
+
+			// 在反序列化之前改变username的值
+			User.username = "jmwang";
 			ObjectOutputStream os = new ObjectOutputStream(
-					new FileOutputStream("C:/user.txt"));
+					new FileOutputStream(file));
 			os.writeObject(user); // 将User对象写进文件
 			os.flush();
 			os.close();
@@ -43,7 +57,7 @@ public class TransientTest {
 
 		try {
 			ObjectInputStream is = new ObjectInputStream(new FileInputStream(
-					"C:/user.txt"));
+					file));
 			user = (User) is.readObject(); // 从流中读取User的数据
 			is.close();
 
@@ -63,9 +77,12 @@ public class TransientTest {
 
 class User implements Serializable {
 	private static final long serialVersionUID = 8294180014912103005L;
-
-	private String username;
-	private transient String passwd;
+	/*
+	 * 这说明反序列化后类中static型变量username的值为当前JVM中对应static变量的值，为修改后jmwang，而不是序列化时的值Alexia
+	 */
+	static String username;
+	// private String username;
+	private transient String passwd;// 一旦变量被transient修饰，变量将不再是对象持久化的一部分，该变量内容在序列化后无法获得访问。
 
 	public String getUsername() {
 		return username;
