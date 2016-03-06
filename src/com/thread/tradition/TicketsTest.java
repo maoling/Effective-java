@@ -3,7 +3,7 @@ package com.thread.tradition;
 /*
  * http://www.cnblogs.com/luxiaoxun/p/3870265.html
  * */
-import org.apache.log4j.Logger;
+//import org.apache.log4j.Logger;
 
 public class TicketsTest {
 	public static void main(String[] args) {
@@ -20,7 +20,7 @@ public class TicketsTest {
 
 class MyRunnable implements Runnable {
 	// 日志文件对象
-	private static Logger logger = Logger.getLogger(MyRunnable.class);
+	//private static Logger logger = Logger.getLogger(MyRunnable.class);
 	private int ticketsCount = 100;
 
 	@Override
@@ -40,8 +40,8 @@ class MyRunnable implements Runnable {
 				}
 
 				ticketsCount--;
-				logger.debug(Thread.currentThread().getName() + "卖了一张票,总共已经卖了"
-						+ (i++) + ",还剩下：" + ticketsCount);
+//				//logger.debug(Thread.currentThread().getName() + "卖了一张票,总共已经卖了"
+//						+ (i++) + ",还剩下：" + ticketsCount);
 
 				if (ticketsCount == 0) {
 					return;
