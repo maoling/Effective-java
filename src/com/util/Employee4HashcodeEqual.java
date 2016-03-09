@@ -3,7 +3,7 @@ package com.util;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Employee
+public class Employee4HashcodeEqual
 {
     private Integer id;
     private String firstname;
@@ -27,7 +27,7 @@ public class Employee
     		return true;
     	if(o.getClass() != getClass())
     		return false;
-    	Employee e = (Employee) o;
+    	Employee4HashcodeEqual e = (Employee4HashcodeEqual) o;
 		return (this.getId() == e.getId());
     	
     }
@@ -57,15 +57,15 @@ public class Employee
     }
     
     public static void main(String[] args) {
-    	Employee e1 = new Employee();
-        Employee e2 = new Employee();
+    	Employee4HashcodeEqual e1 = new Employee4HashcodeEqual();
+        Employee4HashcodeEqual e2 = new Employee4HashcodeEqual();
  
         e1.setId(100);
         e2.setId(100);
         //Prints false in console
         System.out.println(e1.equals(e2));
         
-        Set<Employee> employees = new HashSet<Employee>();
+        Set<Employee4HashcodeEqual> employees = new HashSet<Employee4HashcodeEqual>();
         employees.add(e1);
         employees.add(e2);
         //Prints two objects
