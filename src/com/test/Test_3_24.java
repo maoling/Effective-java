@@ -31,14 +31,15 @@ public class Test_3_24{
 	} 
 	
   public static void main(String[] args){ 
-	//定义一个Person对象，person是这个对象的引用  
+	  String STRING;
+	/*//定义一个Person对象，person是这个对象的引用  
 	  Person person = new Person();  
 	  //先显示这个对象的name属性  
 	  System.out.println(person.name);  
 	  //调用changeName(Person p)方法  
 	  changeName(person);  
 	  //再显示这个对象的name属性，看是否发生了变化  
-	  System.out.println(person.name); 
+	  System.out.println(person.name); */
 	  
 	  /*int num = 5;  
 	  System.out.println(num);  
