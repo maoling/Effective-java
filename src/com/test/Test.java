@@ -1,11 +1,9 @@
 package com.test;
-public class Test {
-    public static void main(String[] args) {   
-        Object o = new Object() {  
-             public boolean equals(Object obj) {  
-                 return true; 
-         }
-     };   
-     System.out.println(o.equals("Freooxx"));
-     }
+public class Test
+{
+    public static int x;
+    public static void main(String args[])
+    {
+        System. out. println("Value is" + x);
+    }
 }
