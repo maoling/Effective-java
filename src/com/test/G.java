@@ -1,10 +1,22 @@
 package com.test;
-interface G{
+ interface G{
 	 public String name =""; //only public, static & final are permitted
 	 static String email = "";
+	 //static  void say();  //only public & abstract are permitted
 	 /*public G(){
 		
 	}*/
+}
+
+abstract class H{
+	private String name;
+	static String email ;
+	public H(){
+		
+	}
+	static void say(){
+		
+	}
 }
 class A1{
 	 public String name =""; //only public, static & final are permitted
@@ -25,9 +37,3 @@ class I extends A1{
 	 }
 }
 
-abstract class H{
-	private String name;
-	public H(){
-		
-	}
-}
