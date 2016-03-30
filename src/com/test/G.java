@@ -22,14 +22,19 @@ class A1{
 	 public String name =""; //only public, static & final are permitted
 	 protected String email = "";
 	 private String grade = "";
-	 /*public G(){
+	 public A1(){
 		
-	}*/
+	 }
 }
 class I extends A1{
 	 public String name = super.name; //only public, static & final are permitted
 	 //protected String email = super.email;
 	 //private String grade = "";
+	 public I(){
+			//System.out.println();
+		 //super();
+		 //;
+	 }
 	 void run(){
 		 //super.grade;
 		 I i = new I();
