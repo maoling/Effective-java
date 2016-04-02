@@ -10,7 +10,8 @@ import java.util.List;
 public class TestMain {
 
 	public static void main(String[] args) {
-		List<Integer> list = new ArrayList<Integer>();
+		System. out. println(Math.floor(-8.5));
+		/*List<Integer> list = new ArrayList<Integer>();
 		for (int i = 0; i < 10; i++) {
 			list.add(i);
 		}
@@ -28,7 +29,7 @@ public class TestMain {
 		System.err.println(num);
 		int b=5,c = 10;
 		swap(b, c);
-		System.out.println(b+" "+c);
+		System.out.println(b+" "+c);*/
 		
 	}
 	

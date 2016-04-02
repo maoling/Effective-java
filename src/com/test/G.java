@@ -7,7 +7,10 @@ package com.test;
 		
 	}*/
 }
-
+ 
+abstract class H2 extends H{
+	 
+}
 abstract class H{
 	private String name;
 	static String email ;
@@ -18,6 +21,7 @@ abstract class H{
 		
 	}
 }
+
 class A1{
 	 public String name =""; //only public, static & final are permitted
 	 protected String email = "";
@@ -25,20 +29,30 @@ class A1{
 	 public A1(){
 		
 	 }
+	 void run(){
+		 
+	 }
+     static void staticRun(){
+		 
+	 }
 }
+
+
 class I extends A1{
 	 public String name = super.name; //only public, static & final are permitted
 	 //protected String email = super.email;
 	 //private String grade = "";
 	 public I(){
-			//System.out.println();
+		 //System.out.println();
 		 //super();
 		 //;
 	 }
 	 void run(){
+		 super.staticRun();
+		 //super.run();
 		 //super.grade;
-		 I i = new I();
-		 System.out.println(i.email);
+		 //I i = new I();
+		 //System.out.println(i.email);
 	 }
 }
 

@@ -23,15 +23,20 @@ class Sub extends Super{
    
 public class Test_3_24{  
 	public static void changeValue(int x) {  
+		//sayHello();  //Cannot make a static reference to the non-static method sayHello() from the type Test_3_24
 		x = x *2;  
 	} 
 	//定义一个改变对象属性的方法  
 	public static void changeName(Person p) {  
 		p.name = "Rose";  
 	} 
-	
+	public void sayHello(){
+		
+	}
   public static void main(String[] args){ 
-	  String STRING;
+	  //String STRING;
+	  short a = 128; byte b = (byte) a;
+	  System.out.println(a+" "+b);
 	/*//定义一个Person对象，person是这个对象的引用  
 	  Person person = new Person();  
 	  //先显示这个对象的name属性  
