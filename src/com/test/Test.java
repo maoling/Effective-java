@@ -1,23 +1,19 @@
 package com.test;
-public class Test {
-    private static int j = 0;
- 
-    private static Boolean methodB(int k) {
-        j += k;
-        return true;
-    }
- 
-    public static void methodA(int i) {
-        boolean b;
-        b = i < 10 | methodB(4);
-        b = i < 10 || methodB(8);
- 
-    }
- 
-    public static void main(String args[]) {
-    	char Ï²»¶='ÖÐ';
-    	System.out.println(Ï²»¶);
-        /*methodA(0);
-        System.out.println(j);*/
+public class Test
+{
+    public static void main(String[] args)
+    {
+        int x = 0;
+        int y = 0;
+        int k = 0;
+        for (int z = 0; z < 5; z++) {
+            if ((++x > 2) && (++y > 2) && (k++ > 2))
+            {
+                x++;
+                ++y;
+                k++;
+            }
+        }
+        System.out.println(x +" "+y +" "+k);
     }
 }
