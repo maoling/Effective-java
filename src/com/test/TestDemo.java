@@ -1,11 +1,30 @@
 package com.test;
-public class TestDemo{
-    private int count;
-    public static void main(String[] args) {
-        TestDemo test=new TestDemo(88);
-        System.out.println(test.count);
+public class TestDemo
+{
+    public static String output = "";
+    public static void foo(int i)
+    {
+        try
+        {
+            if (i == 1)
+            {
+                throw new Exception();
+            }
+        }
+        catch (Exception e)
+        {
+            output += "2";
+            return ;
+        } finally
+        {
+            output += "3";
+        }
+        output += "4";
     }
-     TestDemo(int a) {
-         count=a;
+    public static void main(String[] args)
+    {
+        foo(0);
+        foo(1);
+        System.out.println(output);
     }
 }
