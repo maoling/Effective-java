@@ -30,10 +30,10 @@ public class QuickSort {
 	public static void main(String[] args) {
 		QuickSort bs = new QuickSort();
 		int[] arr = new int[]{2,1,5,4,7,6,13,9,8,3,11,10};
-		bs.quicksort(arr,0,arr.length-1);
+		//bs.quicksort(arr,0,arr.length-1);
 		
 		System.out.println(Arrays.toString(arr));
-		StringBuilder
+		//StringBuilder
 		/*Scanner cin = new Scanner(System.in);
 		int n;
 		while (cin.hasNext()) {
