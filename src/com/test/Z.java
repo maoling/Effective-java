@@ -20,6 +20,6 @@ public class Z extends X{
     }
     public static void main(String[] args) {
         new Z();
-        System.arraycopy()
+       // System.arraycopy()
     }
 }
