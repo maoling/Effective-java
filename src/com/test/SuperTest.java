@@ -1,4 +1,4 @@
-package test;
+package com.test;
 import java.util.Date; 
 public class SuperTest extends Date{ 
     private static final long serialVersionUID = 1L; 
