@@ -14,6 +14,14 @@ public class DoubleCheckedLockingSingleton {
 		}
 		return instance;
 	}
+	public static void main(String[] args) {
+		DoubleCheckedLockingSingleton instance = DoubleCheckedLockingSingleton.getInstance();
+	    System.out.println(instance);
+	    DoubleCheckedLockingSingleton instance2 = DoubleCheckedLockingSingleton.getInstance();
+	    System.out.println(instance2);
+	    DoubleCheckedLockingSingleton instance3 = DoubleCheckedLockingSingleton.getInstance();
+	    System.out.println(instance3);
+	}
 	
 }
 
