@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class QuickSort {
 
-	public void quicksort2(int[] v, int left, int right){
+	public void quickSort2(int[] v, int left, int right){
 		
         if(left < right){
                 int key = v[left];
@@ -21,8 +21,8 @@ public class QuickSort {
                         v[high] = v[low];
                 }
                 v[low] = key;
-                quicksort2(v,left,low-1);
-                quicksort2(v,low+1,right);
+                quickSort2(v,left,low-1);
+                quickSort2(v,low+1,right);
         }
 		
      }

@@ -3,12 +3,18 @@ package com.test;
 /**
  * 
  * @author maoling
- *  父类静态代码块初始化
-	子类静态代码块初始化
-	父类非静态代码块初始化
-	父类无参构造函数初始化完成
-	子类非静态代码块初始化
-	子类构造函数初始化完成
+父类静态成员变量的初始化
+父类静态代码块初始化
+
+子类静态代码块初始化
+
+父类非静态代码块初始化
+父类无参构造函数初始化完成
+
+子类静态成员变量的初始化
+
+子类非静态代码块初始化
+子类构造函数初始化完成
  */
 class MyFather {
    private static String s = print();
@@ -20,8 +26,8 @@ class MyFather {
    }
    
    public static String print() {
-          //System. out.println("父类静态方法" );
-          return "父类静态成员变量的初始化" ;
+          System.out.println("父类静态成员变量的初始化");
+          return "父类静态成员变量的初始化";
    }
    
    public MyFather() {
@@ -36,13 +42,18 @@ class MyFather {
 
 class MySon extends MyFather {
    private static int i = 1;
-   private String s = "子类私有成员变量" ;
+   private String s = print();
 	
    static{
           System.out.println("子类静态代码块初始化" );
    }
    {
           System.out.println("子类非静态代码块初始化" );
+   }
+   
+   public static String print() {
+       System.out.println("子类静态成员变量的初始化");
+       return "子类静态成员变量的初始化";
    }
    
    public void show() {

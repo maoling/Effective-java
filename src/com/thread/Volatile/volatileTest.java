@@ -12,7 +12,7 @@ public class volatileTest {
 	public int inc = 0;
 	Lock lock = new ReentrantLock();
 
-	public void increase() {
+	/*public void increase() {
 		lock.lock();
 		try {
 			inc++;
@@ -22,11 +22,11 @@ public class volatileTest {
 		} finally {
 			lock.unlock();
 		}
-	}
+	}*/
 
-	/*
-	 * public synchronized void increase() { inc++; }
-	 */
+	/**/
+	public synchronized void  increase() { inc++; }
+	 
 
 	/*
 	 * public volatile AtomicInteger inc = new AtomicInteger();

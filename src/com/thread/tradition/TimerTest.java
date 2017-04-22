@@ -3,10 +3,7 @@ package com.thread.tradition;
 import java.util.Timer;
 import java.util.TimerTask;
 
-
-
 public class TimerTest {
-
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

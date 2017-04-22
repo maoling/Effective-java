@@ -2,8 +2,7 @@ package com.algorithm;
 
 public class BinarySearch {
 
-	int BinarySearch(int arry[],int len,int value)
-	{
+	int binarySearch(int arry[],int len,int value) {
 	    //如果传入的数组为空或者数组长度<=0那么就返回-1。防御性编程
 	    if(arry == null || len<=0)
 	        return -1;

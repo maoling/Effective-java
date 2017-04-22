@@ -1,6 +1,7 @@
 package com.test;
 class Two{
-    Byte x;
+    //Byte x;//包装类型默认值为null
+    byte x;
 }
 
 public class PassO{
@@ -9,13 +10,13 @@ public class PassO{
         p.start();
     }
     void start(){
-        Two t=new Two();
+        Two t = new Two();
         System.out.print(t.x+" ");
-        Two t2=fix(t);
+        Two t2 = fix(t);
         System.out.print(t.x+" " +t2.x);
     }
     Two fix(Two tt){
-        tt.x=42;
+        tt.x = 42;
         return tt;
     }
 }

@@ -1,6 +1,6 @@
 package com.test;
 class Son extends Father{
-
+	private String name = "name:儿子";
     public Son() {
 		
 	}
@@ -17,6 +17,7 @@ class Son extends Father{
 
 
 public class Father {
+	private String name = "name:爸爸";
 	public Father(){
     	
     }
@@ -36,7 +37,9 @@ public class Father {
     	System.out.println(x>>3);
     	//x>>3;
     	int y = x>>3;
-        Father f=new Son();
+    	//变量用父类的，方法用自己的
+        Father f = new Son();
+        System.out.println(f.name);
         f.say();
         f.action();
     }

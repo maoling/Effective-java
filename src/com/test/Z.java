@@ -12,7 +12,6 @@ class Y{
     }
 }
 
-
 public class Z extends X{
     Y y=new Y();
     public Z(){
