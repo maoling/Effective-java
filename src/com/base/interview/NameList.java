@@ -22,6 +22,7 @@ public class NameList
                  后6位肯定是第二次输出的，前面剩下的就是第一次输出的。而且第一次的输出结果肯定是第二次输出结果的前缀。所以选E、G。
                  A B C A B C A B C
                  A B C A A B C A B C
+                 A A B B C C A A B B C C 
      * */
     public static void main(String[]args)
     {
