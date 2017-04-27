@@ -57,11 +57,19 @@ public class ThreadTest {
     	//final int a = 8; a = 9;*/
     	Map<String,List<String>> map = new HashMap<>();
     	List<String> list = new ArrayList<>();
-    	list.add("fuck");
-    	map.put("maoling",list);
-    	list = map.get("maoling");
-    	list.add("you!");
-    	System.out.println(list.toString());
+    	list.add("oo");
+    	map.put("1",list);
+    	for (int i=0;i<100;i++) {
+    		if (map.containsKey(i+"")) {
+    			List<String> list2 = map.get(i+"");
+    			list2.add("xx!!!woqu");
+    			//map.put(i+"", list2);
+    		} else {
+    			
+    		}
+    	}
+    	
+    	System.out.println(map.toString());
     	/*for (int ) {
     		
     	}*/
