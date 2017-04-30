@@ -1,4 +1,10 @@
 package com.base.designpattern;
+/**
+ * 注意：volatile阻止的不singleton = new Singleton()这句话内部[1-2-3]的指令重排，
+ * 而是保证了在一个写操作（[1-2-3]）完成之前，不会调用读操作（if (instance == null)）。
+ * @author maoling
+ *
+ */
 public class DoubleCheckedLockingSingleton {  
        
 	private static DoubleCheckedLockingSingleton instance;
