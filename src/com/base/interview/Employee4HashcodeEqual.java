@@ -55,6 +55,18 @@ public class Employee4HashcodeEqual
     public void setDepartment(String department) {
         this.department = department;
     }
+    //http://www.tuicool.com/articles/ZjqmY3
+    public void testTryAndFinally(String name)
+    {
+   		try
+   		{
+   			name.length();// NullPointerException
+   		}
+   		finally
+   		{
+   			System.out.println("aa");
+   		}
+    }
     
     public static void main(String[] args) {
     	Employee4HashcodeEqual e1 = new Employee4HashcodeEqual();
@@ -70,5 +82,20 @@ public class Employee4HashcodeEqual
         employees.add(e2);
         //Prints two objects
         System.out.println(employees);
+        /**
+         * 在Java的try、catch、finally中，try是必须的，catch和finally都不是必须的。
+                                  因为捕获异常是必须要有的，而捕获到异常之后，如果不做处理，那就不用写catch，如果需要对捕获到异常之后做处理才需要catch，finally也是一样，可以不用写，也可以加上。
+        */
+        try {
+			int i = 5 / 0;
+		} 
+        catch (Exception e) {
+			// TODO: handle exception
+        	e.printStackTrace();
+		} finally {
+			System.out.println("finally");
+		}
+        System.out.println("after finally normal!");
+        ExecutorService
 	}
 }
