@@ -1,12 +1,13 @@
 package com.base.designpattern;
 /**
+ * 一个小小的双检锁，竟然还是有很多玄机！
  * 注意：volatile阻止的不singleton = new Singleton()这句话内部[1-2-3]的指令重排，
  * 而是保证了在一个写操作（[1-2-3]）完成之前，不会调用读操作（if (instance == null)）。
  * @author maoling
  *
  */
 public class DoubleCheckedLockingSingleton {  
-       
+    //一定要用static修饰，静态类不能调用实例变量（非静态变量！）
 	private static DoubleCheckedLockingSingleton instance;
 	private DoubleCheckedLockingSingleton(){}
 	private static DoubleCheckedLockingSingleton getInstance(){
