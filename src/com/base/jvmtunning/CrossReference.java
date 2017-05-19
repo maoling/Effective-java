@@ -2,6 +2,12 @@ package com.base.jvmtunning;
 
 import java.util.ArrayList;
 import java.util.List;
+/**
+ * http://www.jianshu.com/p/1f2fd54808e2
+ * @author maoling
+ *
+ */
+
 
 //-Xmx500M -Xms500M -Xmn200M -XX:+UseConcMarkSweepGC -XX:+UseCMSInitiatingOccupancyOnly -XX:CMSInitiatingOccupancyFraction=90
 public class CrossReference {

@@ -1,5 +1,9 @@
 package com.base.thread.tradition;
 
+/** 
+ * http://www.cnblogs.com/liuling/archive/2013/08/21/2013-8-21-03.html
+ */
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.locks.ReadWriteLock;
@@ -12,11 +16,9 @@ public class CacheDemo {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 	}
-
 	
-	public  Object getData(String key){
+	public Object getData(String key) {
 		rwl.readLock().lock();
 		Object value = null;
 		try{
@@ -39,7 +41,7 @@ public class CacheDemo {
 		return value;
 	}
 	
-	public Object getData2(String key){
+	public Object getData2(String key) {
 		
 		rwl.readLock().lock();
 		Object val = null;
