@@ -18,13 +18,10 @@ Lock lock2 = new ReentrantLock(true);
  */
 
 public class ReentrantLockDemo {
-   
-	
-	
-	
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		//ReentrantLock
 	}
 
 }
