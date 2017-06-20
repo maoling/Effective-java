@@ -12,6 +12,14 @@ public class Test2
         System.out.print(a + " ");
         add(b);
         System.out.print(b + "");
+        
+        int x = 10 ;
+        double y = 20.2 ;
+        long z = 10L;
+        System.out.println(y * z);
+        System.out.println(x + y * z);
+        String str = "" + x + y * z ;
+        System.out.println(str) ;
 	}
     
 }
