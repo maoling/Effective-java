@@ -1,1 +1,1 @@
-Some effective code about java
+Some effective codes about java
