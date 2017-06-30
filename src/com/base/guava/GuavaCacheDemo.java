@@ -10,6 +10,7 @@ import com.google.common.cache.RemovalListener;
 import com.google.common.cache.RemovalNotification;
 
 /**
+ * http://tech.meituan.com/cache_about.html
  * http://outofmemory.cn/java/guava/cache/how-to-use-guava-cache
  * @author maoling
  *
