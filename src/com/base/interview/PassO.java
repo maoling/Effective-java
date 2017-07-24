@@ -1,14 +1,11 @@
 package com.base.interview;
 class Two{
-    //Byte x;//包装类型默认值为null
+    //Byte x;//锟斤拷装锟斤拷锟斤拷默锟斤拷值为null
     byte x;
 }
 
-public class PassO{
-    public static void main(String[] args){
-        PassO p=new PassO();
-        p.start();
-    }
+public class PassO {
+   
     void start(){
         Two t = new Two();
         System.out.print(t.x+" ");
@@ -19,4 +16,15 @@ public class PassO{
         tt.x = 42;
         return tt;
     }
+    int function(int n) {
+    	if (n <= 2) return n; 
+    	if (n == 3) return 4;//1 1 1;2,1;1,2;3
+    	return function(n-1) + function(n-2) + function(n-3);
+    }
+    public static void main(String[] args) {
+    	PassO p = new PassO();
+        //p.start();
+    	System.out.println(p.function(15));
+    	
+	}
 }
