@@ -5,10 +5,11 @@ import java.util.Map;
 import java.util.Set;
 
 public class CopyOnWriteMap<K, V> implements Map<K, V>, Cloneable {
-
+    //Го
     private volatile Map<K, V> internalMap;
 
     public CopyOnWriteMap() {
+    	//Го
         internalMap = new HashMap<K, V>();
     }
 
@@ -21,7 +22,7 @@ public class CopyOnWriteMap<K, V> implements Map<K, V>, Cloneable {
             Map<K, V> newMap = new HashMap<K, V>(internalMap);
 
             V val = newMap.put(key, value);
-
+            //Го
             internalMap = newMap;
 
             return val;

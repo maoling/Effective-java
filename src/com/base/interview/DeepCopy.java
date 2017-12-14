@@ -22,6 +22,16 @@ public class DeepCopy implements Cloneable{
         System.out.println("deep copy test");
     }
     
+    public String reverseStr(String str) {
+    	char[] charArr = str.toCharArray();
+    	for (int i=0; i < charArr.length/2 ; i++) {
+    		char tmp = charArr[i];
+    		charArr[i] = charArr[charArr.length-1-i];
+    		charArr[charArr.length-1-i] = tmp;
+    	}
+    	return new String(charArr);
+    }
+    
     @Override
     protected DeepCopy clone() throws CloneNotSupportedException {
         DeepCopy clone = (DeepCopy) super.clone();
@@ -46,6 +56,12 @@ public class DeepCopy implements Cloneable{
         DeepCopy.setName("hello");
         deep.printlnName(); //yhx
         
+        int a = -1 ;//int ÊÇ ÓÐ·ûºÅµÄ
+        
+        int qiguai = 0xffffffff;//-1
+        System.out.println("a:"+ a + " qiguai:" + qiguai);
+        
+        System.out.println(DeepCopy.reverseStr("a"));
         deep.printlnList(); //Java(ii)
     }
 }
