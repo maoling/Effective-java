@@ -20,6 +20,7 @@ abstract class ConsumerHandler {
 	}
 }
 
+//项目经理
 class ProjectHandler extends ConsumerHandler {
 
 	@Override
@@ -91,8 +92,9 @@ public class ChainResponsibility {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ProjectHandler projectHandler =new ProjectHandler();
-		DeptHandler deptHandler =new DeptHandler();
+		ProjectHandler projectHandler = new ProjectHandler();
+		
+		DeptHandler deptHandler = new DeptHandler();
 		
 		projectHandler.setNextHandler(deptHandler);
 		

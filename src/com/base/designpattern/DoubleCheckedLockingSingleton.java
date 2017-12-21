@@ -7,9 +7,13 @@ package com.base.designpattern;
  *
  */
 public class DoubleCheckedLockingSingleton {  
-    //一定要用static修饰，静态类不能调用实例变量（非静态变量！）
-	private static DoubleCheckedLockingSingleton instance;
+	//http://www.importnew.com/21141.html
+    //一定要用static修饰，静态类不能调用实例变量(非静态变量！); 注意static
+	private volatile static DoubleCheckedLockingSingleton instance;
+	
 	private DoubleCheckedLockingSingleton(){}
+	
+	//public行吗？
 	private static DoubleCheckedLockingSingleton getInstance(){
 		if(instance == null){
 			synchronized (DoubleCheckedLockingSingleton.class) {
@@ -21,6 +25,7 @@ public class DoubleCheckedLockingSingleton {
 		}
 		return instance;
 	}
+	
 	public static void main(String[] args) {
 		DoubleCheckedLockingSingleton instance = DoubleCheckedLockingSingleton.getInstance();
 	    System.out.println(instance);

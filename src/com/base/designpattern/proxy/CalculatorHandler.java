@@ -7,6 +7,7 @@ import java.lang.reflect.Proxy;
 public class CalculatorHandler implements InvocationHandler {
 
 	private Object obj;//被代理类
+	
 	public CalculatorHandler (Object obj) {
 		this.obj = obj;
 	}
@@ -15,7 +16,9 @@ public class CalculatorHandler implements InvocationHandler {
 		// TODO Auto-generated method stub
 		CalculatorImpl calculatorImpl = new CalculatorImpl();//被代理类
 		CalculatorHandler calculatorHandler = new CalculatorHandler(calculatorImpl);
-		Calculator calculator = (Calculator) Proxy.newProxyInstance(calculatorImpl.getClass().getClassLoader(), calculatorImpl.getClass().getInterfaces(), calculatorHandler);
+		Calculator calculator = (Calculator) Proxy.newProxyInstance(calculatorImpl.getClass().getClassLoader(), 
+																	calculatorImpl.getClass().getInterfaces(), 
+																	calculatorHandler);
 		System.out.println(calculator.add(1,2));
 		System.out.println(calculator.minus(1, 2));
 		System.out.println(calculator.multiplay(3, 4));
