@@ -1,6 +1,6 @@
 package com.base.thread.tradition;
 /**
- * 银行账户类
+http://blog.csdn.net/luoweifu/article/details/46613015
  */
 class Account {
    String name;
@@ -10,6 +10,7 @@ class Account {
       this.name = name;
       this.amount = amount;
    }
+   
    //存钱
    public  void deposit(float amt) {
       amount += amt;
@@ -19,6 +20,7 @@ class Account {
          e.printStackTrace();
       }
    }
+   
    //取钱
    public  void withdraw(float amt) {
       amount -= amt;

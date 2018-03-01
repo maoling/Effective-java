@@ -7,8 +7,7 @@ public class SyncThread implements Runnable {
 		count = 0;
 	}
 	
-	public  void run() {
-	   synchronized(this) {
+	public static synchronized void method() {
 	         for (int i = 0; i < 5; i++) {
 	            try {
 	               System.out.println(Thread.currentThread().getName() + ":   " + (count++));
@@ -17,8 +16,13 @@ public class SyncThread implements Runnable {
 	               e.printStackTrace();
 	            }
 	         }
-	      }
+	      
 	   }
+	
+	@Override
+	public void run() {
+		method();
+    }
 
 	   public int getCount() {
 	      return count;
