@@ -3,7 +3,7 @@ package com.base.algorithm;
 import java.util.Arrays;
 
 public class QuickSort {
-
+    //面试时经常考到
 	public void quickSort(int[] v, int left, int right) {
 		
 		if (left < right) {
