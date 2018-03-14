@@ -24,9 +24,9 @@ public class SyncThread implements Runnable {
 		method();
     }
 
-	   public int getCount() {
+	public int getCount() {
 	      return count;
-	   }
+	}
 	
 	public static void main(String[] args) {
 		/*SyncThread syncThread = new SyncThread();
