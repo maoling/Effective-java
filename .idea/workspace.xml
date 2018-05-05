@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d224120-20e0-41ef-95bb-c7517ac4df70" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/algorithm/BinarySearch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/algorithm/BubbleSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/algorithm/InsertSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/algorithm/MergeSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/algorithm/QuickSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/algorithm/SelectSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/algorithm/bucketSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/ChainResponsibility.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/ConcreteStateA.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/ConcreteStateB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/ConcreteStateC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/Context.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/DoubleCheckedLockingSingleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/FactoryDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/State.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/StateClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/proxy/Calculator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/proxy/CalculatorHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/proxy/CalculatorImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/designpattern/proxy/StaticCalculatorProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/guava/EventBusDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/guava/GuavaCacheDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/guava/ListenableFutureDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/guava/RateLimiterDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/A.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/AccountType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Apple4HashcodeEqual.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/AssertFoo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Bground.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Cat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Child.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/ClassLoaderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/DeepCopy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Demo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Demo2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Demo2017_09_16.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Employee4HashcodeEqual.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Enclosingone.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/EnumOne.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/ExternalizableTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Father.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Foo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/HasStatic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/HashMapInfiniteLoop.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/HelloB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/InnerClassTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/InstanceofTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/MyApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Mytest02.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/NameList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/PassO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Reference.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Season.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/SeeminglyUnmodifiable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/ShallowCopy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/StringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/SuperTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Test01.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Test2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Test2017_09_17.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Test2017_09_17_1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/TestClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/TestClassLoadSeq.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/TestDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/TestDemo2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/TestException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Test_2017_12_15.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Tester.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/ThreadTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/ThreadTest2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/TransientTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/UnsafeHashMapDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/Z.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/interview/ZeroTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/juc/CopyOnWriteMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/jvmtunning/CrossReference.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/jvmtunning/DirectByteBufferCleaner.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/jvmtunning/OOMCase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/jvmtunning/package-info.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/model/behaviour/ICalculator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/nio/Client.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/nio/NIO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/nio/ProcessJob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/nio/Server.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client102.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client103.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client104.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client105.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client26.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client30.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client32.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client6.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client65.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client66.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client67.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client70.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client78.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client80.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client83.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client93.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client94.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Client_template.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/Foo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/puzzle/ListRemove.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/concurrent/Concurrentcomputation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/concurrent/TestFuturn.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/Account.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/BitOperationDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/BoundBuffer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CacheDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CallableAndFuture.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CollectionModifyExceptionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ConditionCommunication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ConditionDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CountDownLatchDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CountRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CountdownLatchTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/Counter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CyclicBarrierDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/CyclicBarrierTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/DaemonThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ExchangerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ExecutorCase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/LockTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/LongAdderDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/MultiThreadShareData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/QueneTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/Queue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ReadWriteLockTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ReentrantLockDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/SyncThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/SynchronizedDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/TestExecutorService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ThreadLocalTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ThreadLocalTest2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ThreadPoolTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ThreadScopeShareData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ThreadTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/ThreadYieldTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/TicketsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/TimerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/TraditionThreadCommunication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/TraditionThreadSynchronized.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/TraditionalTimerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/VolatileDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/WaitNotify.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/tradition/WaitNotifyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/thread/volatiler/volatileTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/base/tradition/jdk8/TryWithResourcesDemo.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
+    <ignored path="Effective-java.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Effective-java" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BinarySearchTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/base/algorithm/BinarySearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client30.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/base/puzzle/Client30.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10738255">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Effective-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puzzle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d224120-20e0-41ef-95bb-c7517ac4df70" name="Default" comment="" />
+      <created>1525354298505</created>
+      <option name="number" value="Default" />
+      <updated>1525354298505</updated>
+      <workItem from="1525354303057" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/base/algorithm/BinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/base/puzzle/Client30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10738255">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
