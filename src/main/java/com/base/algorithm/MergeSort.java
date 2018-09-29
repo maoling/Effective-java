@@ -1,5 +1,7 @@
 package com.base.algorithm;
 
+import java.util.concurrent.CountDownLatch;
+
 public class MergeSort {
 
 	void mergeArray(int[] a,int m, int[] b,int n, int c[]) {
@@ -29,8 +31,25 @@ public class MergeSort {
 		}
 	}
 	
+	static void operationComplete() throws Exception {
+		CountDownLatch firstConnect = new CountDownLatch(1);
+		try {
+		    int i = 8 / 0;
+		    System.out.println("into here??");
+		    firstConnect.countDown();
+		} finally {
+			System.out.println("finally!!");
+			firstConnect.countDown();
+		}
+	}
+	
 	public static void main(String[] args) {
-		
+		try {
+			operationComplete();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
 	}
 
